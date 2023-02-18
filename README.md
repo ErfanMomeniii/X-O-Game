@@ -1,2 +1,2 @@
-# X-O-Game
-simple X-O-Game implementation with React
+# X-O Game
+simple X-O Game implementation with React
